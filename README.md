@@ -2,6 +2,15 @@
 
 **The Sync & Backup Engine for the Cortex-Works Ecosystem**
 
+> [!WARNING]
+> **🚧 Alpha Version (Under Active Development)**
+> This project is currently in early alpha stage and is undergoing heavy development. Features, APIs, and CLI commands are subject to breaking changes without notice. 
+> 
+> **Current Testing Environment (As of 25 Feb 2026):**
+> Testing is exclusively performed on a developer machine running **macOS Sequoia 15.7.4** with the latest versions of compatible IDEs (Cursor/VS Code/Windsurf). 
+> 
+> *If you are cloning this repository to run on Windows, Linux, or older IDE versions, you may encounter instability or broken features. Cross-platform testing will be expanded in future releases.*
+
 ## 🌟 Overview
 CortexRelay manages personal backup and team collaboration (multi-player) for CortexDB and CortexSync artifacts seamlessly without breaking local-first priorities.
 
