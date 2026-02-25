@@ -17,5 +17,5 @@ Part of the "Data Triad" Architecture within Cortex-Works:
 
 ## 🚀 Phase 3 & 4 Roadmap
 This module corresponds to the **Phase 4** and CRDT sync objectives:
-* **One-Click Local Backup:** ระบบบีบอัดฐานข้อมูล Local เพื่อ Backup หรือย้ายเครื่องได้ง่ายๆ ไร้รอยต่อ.
-* **CRDT-based Team Collaboration:** ใช้เทคโนโลยี CRDTs (Conflict-free Replicated Data Type) อย่าง Automerge/Loro เพื่อซิงค์ฐานข้อมูล (Tickets/Status) ระหว่างเครื่องในทีมแบบ Peer-to-Peer โดยไม่ทำให้ Data พัง.
+* **One-Click Local Backup:** Local database compression system for seamless zero-friction backups and machine migrations.
+* **CRDT-based Team Collaboration:** Leverage CRDTs (Conflict-free Replicated Data Type) like Automerge/Loro to sync databases (Tickets/Status) peer-to-peer between team machines without corrupting data.
